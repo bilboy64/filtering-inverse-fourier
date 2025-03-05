@@ -1,4 +1,4 @@
-## WARNING: This class assignment contains copyrighted material.
+# WARNING: This class assignment contains copyrighted material.
 
 ## Conventions pertaining to file management in project directory:
 We've created **6 different jupyter notebook files**, each with the following purpose: 
