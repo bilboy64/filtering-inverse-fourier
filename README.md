@@ -1,3 +1,5 @@
+## WARNING: This class assignment contains copyrighted material.
+
 ## Conventions pertaining to file management in project directory:
 We've created **6 different jupyter notebook files**, each with the following purpose: 
 - *Assignment_1* is the complete project file that contains code that corresponds to every question of the assignment, as well as two supplementary code cells in the beginning. These two code cells create two simple signals that can, alternatively, be passed as input to the 'librosa.load' function used in question A. This is the only purpose they serve, it's not mandatory to run them (even if user presses "Run all", it won't change anything codewise, as they are not used anywhere).
